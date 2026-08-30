@@ -23,7 +23,7 @@ and **Letter of Recommendation**.
 ## 📁 Projects
 
 ### 1. 🤖 FAQ Chatbot
-**Path:** [`chatbot_for_FAQs/`](https://github.com/AkarshKumar1/CodeAlpha_FAQChatbot)
+**Path:** [`FAQ_Chatbot/`](https://github.com/AkarshKumar1/CodeAlpha_FAQChatbot)
 
 A retrieval-based FAQ assistant that uses **TF-IDF vectorization** and **cosine similarity** to
 semantically match user queries against a curated question-answer knowledge base, served through
