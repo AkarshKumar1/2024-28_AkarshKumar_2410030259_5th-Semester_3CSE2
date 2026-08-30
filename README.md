@@ -15,8 +15,8 @@ and **Letter of Recommendation**.
 | **Domain** | Artificial Intelligence |
 | **Mode** | Virtual · Remote |
 | **Duration** | 10th June 2026 – 10th July 2026 |
-| **Certificate ID** | CA/DF1/134778 |
-| **Submitted by** | Kshitij Mittal · IILM University, Greater Noida |
+| **Certificate ID** | CA/DF1/113561 |
+| **Submitted by** | Akarsh Kumar · IILM University, Greater Noida |
 
 ---
 
@@ -116,12 +116,12 @@ python detection.py
 ## 📜 Internship Completion Certificate
 
 <p align="center">
-  <img src="certificate/Certificate_Akarsh_Kumar.jpg"
+  <img src="https://github.com/AkarshKumar1/2024-28_AkarshKumar_2410030259_5th-Semester_3CSE2/blob/main/Certificate/Certificate_Akarsh%20Kumar.jpg"
        alt="CodeAlpha Artificial Intelligence Internship Completion Certificate"
        width="900">
 </p>
 
-**Issued:** 11th July 2026  . **Student ID:** CA/DF1/134778
+**Issued:** 11th July 2026  . **Student ID:** CA/DF1/113561
 
 ---
 
